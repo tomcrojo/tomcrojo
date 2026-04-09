@@ -39,4 +39,4 @@ Automated ETL and reporting pipeline for monthly security monitoring and stakeho
 
 - LinkedIn: [linkedin.com/in/tomcrojo](https://linkedin.com/in/tomcrojo)
 - Manfred: [mnf.red/tommcrojo](https://mnf.red/tommcrojo)
-- Email: `tomascampoyrojo@gmail.com`
+- Email: `tomdata03@protonmail.com`
