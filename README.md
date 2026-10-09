@@ -38,5 +38,4 @@ Real-time order processing pipeline built around event-driven ingestion and stre
 ## Contact
 
 - LinkedIn: [linkedin.com/in/tomcrojo](https://linkedin.com/in/tomcrojo)
-- Manfred: [mnf.red/tommcrojo](https://mnf.red/tommcrojo)
 - Email: `tomdata03@protonmail.com`
